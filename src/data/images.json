@@ -1,181 +1,181 @@
 [
     {
         "id": "1",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/1.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/1.jpg?raw=true",
         "price": 34,
         "isFavorite": false
     },
     {
         "id": "2",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/2.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/2.jpg?raw=true",
         "price": 30,
         "isFavorite": false
     },
     {
         "id": "3",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/3.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/3.jpg?raw=true",
         "price": 40,
         "isFavorite": false
     },
     {
         "id": "4",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/4.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/4.jpg?raw=true",
         "price": 25,
         "isFavorite": false
     },
     {
         "id": "5",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/5.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/5.jpg?raw=true",
         "price": 34,
         "isFavorite": false
     },
     {
         "id": "6",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/6.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/6.jpg?raw=true",
         "price": 36,
         "isFavorite": false
     },
     {
         "id": "7",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/7.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/7.jpg?raw=true",
         "price": 48,
         "isFavorite": false
     },
     {
         "id": "8",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/8.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/8.jpg?raw=true",
         "price": 38,
         "isFavorite": false
     },
     {
         "id": "9",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/9.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/9.jpg?raw=true",
         "price": 44,
         "isFavorite": false
     },
     {
         "id": "10",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/10.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/10.jpg?raw=true",
         "price": 50,
         "isFavorite": false
     },
     {
         "id": "11",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/11.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/11.jpg?raw=true",
         "price": 34,
         "isFavorite": false
     },
     {
         "id": "12",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/12.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/12.jpg?raw=true",
         "price": 39,
         "isFavorite": false
     },
     {
         "id": "13",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/13.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/13.jpg?raw=true",
         "price": 30,
         "isFavorite": false
     },
     {
         "id": "14",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/14.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/14.jpg?raw=true",
         "price": 29,
         "isFavorite": false
     },
     {
         "id": "15",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/15.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/15.jpg?raw=true",
         "price": 40,
         "isFavorite": false
     },
     {
         "id": "16",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/16.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/16.jpg?raw=true",
         "price": 34,
         "isFavorite": false
     },
     {
         "id": "17",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/17.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/17.jpg?raw=true",
         "price": 34,
         "isFavorite": false
     },
     {
         "id": "18",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/18.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/18.jpg?raw=true",
         "price": 42,
         "isFavorite": false
     },
     {
         "id": "19",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/19.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/19.jpg?raw=true",
         "price": 37,
         "isFavorite": false
     },
     {
         "id": "20",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/20.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/20.jpg?raw=true",
         "price": 44,
         "isFavorite": false
     },
     {
         "id": "21",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/21.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/21.jpg?raw=true",
         "price": 45,
         "isFavorite": false
     },
     {
         "id": "22",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/22.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/22.jpg?raw=true",
         "price": 43,
         "isFavorite": false
     },
     {
         "id": "23",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/23.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/23.jpg?raw=true",
         "price": 37,
         "isFavorite": false
     },
     {
         "id": "24",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/24.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/24.jpg?raw=true",
         "price": 54,
         "isFavorite": false
     },
     {
         "id": "25",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/25.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/25.jpg?raw=true",
         "price": 64,
         "isFavorite": false
     },
     {
         "id": "26",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/26.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/26.jpg?raw=true",
         "price": 44,
         "isFavorite": false
     },
     {
         "id": "27",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/27.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/27.jpg?raw=true",
         "price": 50,
         "isFavorite": false
     },
     {
         "id": "28",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/28.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/28.jpg?raw=true",
         "price": 35,
         "isFavorite": false
     },
     {
         "id": "29",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/29.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/29.jpg?raw=true",
         "price": 32,
         "isFavorite": false
     },
     {
         "id": "30",
-        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/30.jpg",
+        "src": "https://github.com/boredgus/web-shop/blob/main/public/assets/img/30.jpg?raw=true",
         "price": 30,
         "isFavorite": false
     }
