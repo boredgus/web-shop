@@ -1,0 +1,42 @@
+.photos {
+  > div {
+    max-width: 1280px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+    .item-container {
+      height: 300px;
+      position: relative;
+      padding: 0 5px;
+      .image {
+        width: 92%;
+        display: block;
+        margin: 0 auto;
+        margin-top: 30px;
+        transition: .2s ease-in;
+        position: relative;
+        &:hover{
+          cursor: pointer;
+        }
+      }
+      .icons {
+        width: 98%;
+        position: absolute;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 0;
+        .icon img {
+          width: 20px;
+          margin: 5px;
+        }
+      }
+      &:hover {
+        .image {
+          width: 100%;
+        }
+      }
+    }
+  }
+}
