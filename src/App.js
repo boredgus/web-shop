@@ -1,23 +1,27 @@
-import './App.css';
-import './styles/style.scss';
-import {Switch, Route} from "react-router-dom";
+import { Switch, Route, Redirect } from "react-router-dom";
 
 import Header from "./components/Header";
-import Photos from "./pages/Photos";
+import Gallery from "./pages/Gallery";
 import Cart from "./pages/Cart";
+import LikedPhotos from './pages/LikedPhotos';
 
+import './styles/index.scss';
 
 function App() {
   return (
     <div className="App">
       <Header />
       <Switch>
-        <Route exact path="/">
-          <Photos />
+        <Route path="/gallery">
+          <Gallery />
         </Route>
         <Route path="/cart">
           <Cart />
         </Route>
+        <Route path="/liked-images">
+          <LikedPhotos />
+        </Route>
+        <Redirect to='/gallery' />
       </Switch>
     </div>
   );
