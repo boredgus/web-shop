@@ -1,7 +1,8 @@
 .photos {
   padding: 1em 0;
   > div {
-    max-width: 1280px;
+    width: 1280px;
+    max-width: 90%;
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -10,8 +11,10 @@
       position: absolute;
     }
     .item-container {
-      height: 330px;
-      padding: 0 5px;
+      // height: 330px;
+      // padding: 0 5px;
+		height: auto;
+		padding: 1em 0;
 
       .icons {
         width: 100%;
