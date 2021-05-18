@@ -4,24 +4,26 @@ import Header from "./components/Header";
 import Gallery from "./pages/Gallery";
 import Cart from "./pages/Cart";
 import LikedPhotos from './pages/LikedPhotos';
+import { config } from './config/general';
 
 import './styles/index.scss';
 
 function App() {
+  const { initialPath } = config;
   return (
     <div className="App">
       <Header />
       <Switch>
-        <Route path="/gallery">
+        <Route exact path={`${initialPath}/gallery`}>
           <Gallery />
         </Route>
-        <Route path="/cart">
+        <Route exact path={`${initialPath}/cart`}>
           <Cart />
         </Route>
-        <Route path="/liked-images">
+        <Route exact path={`${initialPath}/liked-images`}>
           <LikedPhotos />
         </Route>
-        <Redirect to='/gallery' />
+        <Redirect to={`${initialPath}/gallery`} />
       </Switch>
     </div>
   );

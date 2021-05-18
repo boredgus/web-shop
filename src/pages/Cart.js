@@ -19,9 +19,6 @@ function Cart() {
         }, 3000);
     }
 
-    function setModalWindow() {
-        return  (<ModalWindow />);
-    }
     return (
         <main>
             <h1>Cart</h1>
@@ -29,7 +26,6 @@ function Cart() {
                 {cartComponents}
             </ol>
             <div className="modal"></div>
-            {/* {() => setModalWindow()} */}
             <ModalWindow />
             {
                 cartItems.length > 0 ?
