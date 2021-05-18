@@ -14,13 +14,13 @@ function App() {
     <div className="App">
       <Header />
       <Switch>
-        <Route exact path={`${initialPath}/gallery`}>
+        <Route  path={`${initialPath}/gallery`}>
           <Gallery />
         </Route>
-        <Route exact path={`${initialPath}/cart`}>
+        <Route  path={`${initialPath}/cart`}>
           <Cart />
         </Route>
-        <Route exact path={`${initialPath}/liked-images`}>
+        <Route  path={`${initialPath}/liked-images`}>
           <LikedPhotos />
         </Route>
         <Redirect to={`${initialPath}/gallery`} />
