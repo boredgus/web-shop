@@ -14,13 +14,14 @@
 .modal-root {
   display: flex;
   flex-direction: column;
+  width: 600px;
+  max-width: 90%;
 }
 
 .modal-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  min-width: 600px;
   padding: 1rem;
   border-bottom: 3px solid rgb(18, 32, 48);
   font-weight: 700;
