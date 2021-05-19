@@ -1,6 +1,6 @@
 {
   "homepage": "http://boredgus.github.io/web-shop",
-  "name": "capstone-project",
+  "name": "web-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
